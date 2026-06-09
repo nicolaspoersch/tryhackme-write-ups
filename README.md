@@ -1,1 +1,1 @@
-👉 Read it here:  https://nicolaspoersch.github.io/tryhackme-write-ups/
+👉 Read here, please:  https://nicolaspoersch.github.io/tryhackme-write-ups/
